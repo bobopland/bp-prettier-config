@@ -1,6 +1,6 @@
 {
   "name": "bp-config-prettier",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Boris Pöhland prettier config",
   "main": "index.js",
   "scripts": {
