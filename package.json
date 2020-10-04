@@ -1,0 +1,24 @@
+{
+  "name": "bp-config-prettier",
+  "version": "1.0.0",
+  "description": "Boris Pöhland prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borispoehland/bp-config-prettier.git"
+  },
+  "keywords": [
+    "bp",
+    "prettier",
+    "config"
+  ],
+  "author": "Boris Pöhland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borispoehland/bp-config-prettier/issues"
+  },
+  "homepage": "https://github.com/borispoehland/bp-config-prettier#readme"
+}
